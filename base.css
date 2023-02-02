@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}/* removing all styles*/
+
+/*Base styles*/
+#redirect-button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+#redirect-button:hover {
+    background-color: lightblue;
+}
+
+body {
+    padding: 20px;
+    background-color: #fff;
+}
+
+.container {
+    margin: 0 auto;
+} /* centering container */
+
+.services , .projects {
+    text-align: center;
+} /* centering services and projects */
+
+/*End base styles*/
+
+
+.header {
+    background-color: #337CA0;
+    width: 1200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.service {
+    width: 290px;
+    height: 200px;
+    background-color: #C4FFF9;
+    display: inline-block;
+    margin: 5px;
+    font-size: 0;
+}
+
+.proj {
+    width: 390px;
+    height: 200px;
+    background-color: #81667A;
+    display: inline-block;
+    margin-right: 5px;
+}
