@@ -1,4 +1,5 @@
-This website shows the difference between a responsive web page and a responsive web page.
+This website shows the difference between a adaptive web page and a responsive web page.
+
 
 
 
