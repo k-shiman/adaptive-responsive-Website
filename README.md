@@ -9,4 +9,4 @@
 
   Responsive design: In this approach, the layout of a website automatically adjusts to fit any screen size, whether it is a desktop computer, tablet or mobile phone. The layout is fluid and flexible, adapting to the size of the screen. This is achieved through the use of CSS media queries and flexible grid-based layouts.
   
-                                                              [Website link](https://k-shiman.github.io/)
+[Website link](https://k-shiman.github.io/)
